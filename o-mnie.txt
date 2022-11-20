@@ -1,1 +1,2 @@
 Hanna Laszkiewicz
+2048 w terminalu :)
