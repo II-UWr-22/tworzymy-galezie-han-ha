@@ -1,1 +1,51 @@
 Linux Ubuntu 5.15.0-50-generic #56-Ubuntu SMP Tue Sep 20 13:23:26 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        4018204 kB
+MemFree:          168852 kB
+MemAvailable:    2323848 kB
+Buffers:           59164 kB
+Cached:          2229652 kB
+SwapCached:          524 kB
+Active:          1415640 kB
+Inactive:        2023560 kB
+Active(anon):      19412 kB
+Inactive(anon):  1181588 kB
+Active(file):    1396228 kB
+Inactive(file):   841972 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       2191356 kB
+SwapFree:        2162556 kB
+Dirty:                 4 kB
+Writeback:             0 kB
+AnonPages:       1150016 kB
+Mapped:           446920 kB
+Shmem:             60020 kB
+KReclaimable:     203808 kB
+Slab:             290256 kB
+SReclaimable:     203808 kB
+SUnreclaim:        86448 kB
+KernelStack:       10080 kB
+PageTables:        21424 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     4200456 kB
+Committed_AS:    5125656 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       40424 kB
+VmallocChunk:          0 kB
+Percpu:             1984 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      247744 kB
+DirectMap2M:     3946496 kB
